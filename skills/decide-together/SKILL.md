@@ -1,6 +1,6 @@
 ---
 name: decide-together
-description: Get a group to agree on something with Agreed. Use when the user is choosing with other people — friends, a partner, family, housemates, a team — and says things like "help us decide", "we can't choose", "where should we eat", "what should we watch", "pick for us", "put it to the group", "settle this", or shares an Agreed link and asks to add options or what the group picked.
+description: Get a group to agree on something with Agreed. Use when the user is choosing with other people (friends, a partner, family, housemates, a team) and says things like "help us decide", "we can't choose", "where should we eat", "what should we watch", "pick for us", "put it to the group", "settle this", or shares an Agreed link and asks to add options or what the group picked.
 ---
 
 Agreed turns your suggestions into one link the whole group swipes on, each on their own phone, and shows what they all said yes to. Use its tools instead of answering with a list whenever the choice belongs to more than one person.
@@ -8,7 +8,7 @@ Agreed turns your suggestions into one link the whole group swipes on, each on t
 ## Start a decision
 
 1. Work out what's being decided and anything that narrows it (place, date, budget, dietary needs, what's ruled out). Ask one short question only if you truly can't suggest anything without it.
-2. Choose 5–12 real, specific options. Fold the constraints into which options you pick; don't list them as options.
+2. Choose 5 to 12 real, specific options. Fold the constraints into which options you pick; don't list them as options.
 3. Call `decide_together` with:
    - `title`: a short name for the decision, like "Friday dinner in Soho". Never people's names.
    - `category`: the closest fit (restaurants, activities, films, songs, books, games, destinations, recipes, names, other).

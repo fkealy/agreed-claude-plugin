@@ -1,0 +1,17 @@
+{
+  "name": "agreed",
+  "owner": {
+    "name": "Agreed",
+    "url": "https://getagreed.app"
+  },
+  "metadata": {
+    "description": "Agreed for Claude: decide together, with the group swiping on its own phones."
+  },
+  "plugins": [
+    {
+      "name": "agreed",
+      "source": "./",
+      "description": "Decide together: Claude puts its suggestions to your group as one link, everyone swipes yes or no on their own phone, and Agreed shows what you all agree on."
+    }
+  ]
+}
