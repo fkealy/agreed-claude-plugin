@@ -1,4 +1,4 @@
-![I don't mind. It's agreed. Decide together.](.github/hero.png)
+![Someone asks for help picking a film; the reply hands over Agreed's card, with the deck of options and two of four friends done swiping.](.github/hero.png)
 
 # Agreed for Claude
 
@@ -62,4 +62,4 @@ No sign-in, no API key, nothing to set up.
 
 [getagreed.app/claude](https://getagreed.app/claude) · [support@getagreed.app](mailto:support@getagreed.app) · [status.getagreed.app](https://status.getagreed.app)
 
-MIT licensed. Made by [Agreed](https://getagreed.app).
+Made by [Agreed](https://getagreed.app). Licensed under [Apache 2.0](LICENSE). The Agreed name, logo and images are trademarks of Agreed and aren't covered by the licence.

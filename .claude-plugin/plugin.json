@@ -5,5 +5,5 @@
   "description": "Decide together: Claude puts its suggestions to your group as one link, everyone swipes yes or no on their own phone, and Agreed shows what you all agree on.",
   "author": { "name": "Agreed", "url": "https://getagreed.app" },
   "homepage": "https://getagreed.app/claude",
-  "license": "MIT"
+  "license": "Apache-2.0"
 }
