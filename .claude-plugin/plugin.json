@@ -1,0 +1,9 @@
+{
+  "name": "agreed",
+  "displayName": "Agreed",
+  "version": "1.0.0",
+  "description": "Decide together: when a group can't choose (where to eat, what to watch, where to go), Claude puts its suggestions to the group as one link, everyone swipes yes or no on their own phone, and Agreed shows what they agree on.",
+  "author": { "name": "Agreed", "url": "https://getagreed.app" },
+  "homepage": "https://getagreed.app/claude",
+  "license": "MIT"
+}
